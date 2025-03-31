@@ -1,5 +1,5 @@
 import GeneralInformation from "./components/general_information";
-import EducationalExperience from "./components/educational_Experience";
+import EducationalExperience from "./components/educational_experience";
 import PracticalExperience from "./components/practical_experience";
 
 function App() {
